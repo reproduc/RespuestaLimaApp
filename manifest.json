@@ -1,7 +1,7 @@
 {
-    "name": "Antena Dorada Fm ",
-    "short_name": "Antena Dorada Fm",
-    "description": "Señal que Avanza",
+    "name": "Radio Respuesta",
+    "short_name": "Radio Respuesta",
+    "description": "El Punto Clave de la Noticia",
     "icons": [
         {
             "src": "img/logo.png",
